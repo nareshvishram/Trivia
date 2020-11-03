@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Trivia</string>
+    <string name="trivia">Trivia</string>
+    <string name="next_button_desc">Next Button</string>
+    <string name="previous_button_desc">Previous Button</string>
+    <string name="false_button">False</string>
+    <string name="true_button">True</string>
+    <string name="true_title">true</string>
+    <string name="previous_button">prev</string>
+    <string name="next_button">next</string>
+    <string name="false_title">false</string>
+    <string name="_1_out_of_1000">1 out of 1000</string>
+    <string name="questions_content">Hello There this is where we are going to add something...</string>
+    <string name="correct_questions">Correct Questions</string>
+</resources>
