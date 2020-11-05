@@ -1,8 +1,7 @@
 # Trivia
 ### Convert your JSON Data into a nice Test App with a Responsive Animation 
 
-#### JSON Data Link for questions [https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json](url)
-
+#### JSON Data Link for questions https://raw.githubusercontent.com/curiousily/simple-quiz/master/script/statements-data.json
 #### Let's Show this data as a nice  Test App 
 
 #### Let's see what I have done.....
