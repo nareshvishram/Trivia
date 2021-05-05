@@ -58,8 +58,7 @@ Each time the user will come and start from the beginning. Isn't it good? Of cou
 
 Let's say you were at question 100 last time and accidentally your android is dead due to low battery. Then no need to be worry because your data is stored and you will start from question number 100 onwards.
 
- # Final Response
- ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58872658/117115141-552d2680-adaa-11eb-9401-8affdb2bc73a.gif)
+
 
  
 
@@ -72,4 +71,6 @@ You can share the score right away by just clicking the options menu's Share Sco
 I just used Implicit Intent to share the data with the help of android OS.
 
 ​
+# Final Response
 
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/58872658/117115141-552d2680-adaa-11eb-9401-8affdb2bc73a.gif)
